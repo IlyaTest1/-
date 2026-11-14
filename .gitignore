@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Виртуальные окружения
+.venv/
+venv/
+env/
+
+# Редакторы и ОС
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Локальные настройки и служебные файлы
+.env
+.env.*
+!.env.example
+*.log
+*.cache
