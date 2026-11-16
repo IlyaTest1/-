@@ -1,4 +1,4 @@
-[CONTRIBUTING.md](https://github.com/user-attachments/files/34914684/CONTRIBUTING.md)
+[CONTRIBUTING.md](https://github.com/user-attachments/files/34916912/CONTRIBUTING.md)
 # Совместная работа
 
 Основной файл приложения — `main.py`. Инструкции установки находятся в [README.md](README.md).
